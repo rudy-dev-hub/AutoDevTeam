@@ -22,6 +22,13 @@ An AI-powered development team using CrewAI to automate software development tas
   - Code block extraction and display
   - File saving capabilities
 
+## Demo
+
+For a better understanding of the application, check out the `demo` folder which contains:
+- 📸 Screenshots of the application in action
+- 🎥 A demo GIF showing the complete workflow from task submission to code generation
+- 💡 Visual examples of how the AI team collaborates
+
 ## Setup
 
 1. Clone the repository:
@@ -75,8 +82,11 @@ auto-dev-team/
 ├── requirements.txt   # Dependencies
 ├── crew/
 │   └── crew_setup.py  # CrewAI implementation
-└── engine/
-    └── llm_wrapper.py # LLM configuration
+├── engine/
+│   └── llm_wrapper.py # LLM configuration
+└── demo/              # Demo materials
+    ├── demo.gif       # Application demo
+    └── ss1.png        # Screenshot
 ```
 
 ## Dependencies
@@ -89,3 +99,7 @@ auto-dev-team/
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
+---
+
+Made with ❤️ by Rudresh Upadhyaya
