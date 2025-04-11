@@ -2,6 +2,8 @@
 
 An AI-powered development team using CrewAI to automate software development tasks. The system uses a team of AI agents working together to plan, implement, review, and test code based on user requirements.
 
+[![GitHub](https://img.shields.io/badge/GitHub-AutoDevTeam-blue?style=flat&logo=github)](https://github.com/rudy-dev-hub/AutoDevTeam)
+
 ## Features
 
 - 🤖 AI-powered development team with specialized agents:
@@ -33,7 +35,7 @@ For a better understanding of the application, check out the `demo` folder which
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rudy-dev-hub/AutoDevTeam.git
 cd auto-dev-team
 ```
 
